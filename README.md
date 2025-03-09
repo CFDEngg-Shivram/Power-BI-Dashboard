@@ -4,19 +4,19 @@ The Sales Data Analysis Dashboard in Power BI provides insights into key busines
 
 
 # Key Metrics Overview
-# Monthly Revenue & Growth
+ Monthly Revenue & Growth
 •	Current Month Revenue: $1.83M
 •	Previous Month Revenue: $1.77M
 •	Revenue Growth: +3.31% 
-# Monthly Orders & Returns
+ Monthly Orders & Returns
 •	Total Orders: 2,146 (Slight decrease from 2,165 last month, -0.88%)
 •	Total Returns: 166 (Improved from 169, -1.78%)
-# Profit Analysis
+ Profit Analysis
 •	Total Revenue: $24.9M
 •	Total Profit: $10.5M
 •	Return Percentage: 2.2%
 ## Sales Performance Analysis
-# Orders by Product Category
+ Orders by Product Category
 •	Accessories: 17.0K orders
 •	Bikes: 13.9K orders
 •	Clothing: 7.0K orders
